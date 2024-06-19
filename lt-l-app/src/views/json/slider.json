@@ -1,0 +1,23 @@
+{
+    "status": 200,
+    "data": [
+        {
+            "title": "Play Lifetime Lotto, Where your Ticket Never Expires",
+            "descr": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+            "link": "",
+            "status": 1
+        },
+        {
+            "title": "Play Lifetime Lotto, Where your Ticket Never Expires",
+            "descr": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+            "link": "",
+            "status": 1
+        },
+        {
+            "title": "Play Lifetime Lotto, Where your Ticket Never Expires",
+            "descr": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+            "link": "",
+            "status": 1
+        }
+    ]
+}

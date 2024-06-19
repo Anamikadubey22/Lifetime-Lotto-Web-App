@@ -1,0 +1,111 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (min-width: 275.98px) { 
+    .sec-second .card h4 {
+        font-size: 17px;
+    }
+    .sec-second .time-row .p-two-t {
+        font-size: 9px;
+    }
+    .sec-four .first-w{
+        bottom: -40px;
+    }
+    .sec-four .second-w{
+        bottom: -50px;
+    }
+    .sec-four .third-w{
+        bottom: -65px;
+    }
+}
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (min-width: 375.98px) { 
+    .sec-second .card h4 {
+        font-size: 17px;
+    }
+    .sec-second .time-row .p-two-t {
+        font-size: 9px;
+    }
+    .sec-four .first-w{
+        bottom: -40px;
+    }
+    .sec-four .second-w{
+        bottom: -50px;
+    }
+    .sec-four .third-w{
+        bottom: -65px;
+    }
+ }
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (min-width: 575.98px) { 
+    .sec-second .card h4 {
+        font-size: 24px;
+    }
+    .sec-second .time-row .p-two-t {
+        font-size: 9px;
+    }
+    .sec-four .first-w{
+        bottom: -23px;
+    }
+    .sec-four .second-w{
+        bottom: -90px;
+    }
+    .sec-four .third-w{
+        bottom: -90px;
+    }
+ }
+
+/* // Small devices (landscape phones, less than 768px) */
+@media (min-width: 767.98px) { 
+    .sec-second .card h4 {
+        font-size: 24px;
+    }
+    .sec-second .time-row .p-two-t {
+        font-size: 12px;
+    }
+    .sec-four .first-w{
+        bottom: -23px;
+    }
+    .sec-four .second-w{
+        bottom: -90px;
+    }
+    .sec-four .third-w{
+        bottom: -90px;
+    }
+}
+
+/* // Medium devices (tablets, less than 992px) */
+@media (min-width: 991.98px) { 
+    .sec-second .card h4 {
+        font-size: 24px;
+    }
+    .sec-second .time-row .p-two-t {
+        font-size: 12px;
+    }
+    .sec-four .first-w{
+        bottom: -23px;
+    }
+    .sec-four .second-w{
+        bottom: -90px;
+    }
+    .sec-four .third-w{
+        bottom: -90px;
+    }
+ }
+
+/* // Large devices (desktops, less than 1200px) */
+@media (min-width: 1199.98px) { 
+    .sec-second .card h4 {
+        font-size: 24px;
+    }
+    .sec-second .time-row .p-two-t {
+        font-size: 12px;
+    }
+    .sec-four .first-w{
+        bottom: -23px;
+    }
+    .sec-four .second-w{
+        bottom: -90px;
+    }
+    .sec-four .third-w{
+        bottom: -90px;
+    }
+ }
